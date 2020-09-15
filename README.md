@@ -1,0 +1,2 @@
+# tests
+simple javascript tests
